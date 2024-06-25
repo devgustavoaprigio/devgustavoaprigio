@@ -1,9 +1,9 @@
 
 ### Olá! Eu sou o Gustavo Aprigio ✋
 [![Linkedln](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gustavo-aprigio-b34585112/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](<a href= "https://www.instagram.com/gustavinho12bass/">)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](<a href="maito:gustavo.aprigio@gmail.com">)
-[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](<a href="1161493642498805810">)[![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](<a href="https://www.youtube.com/@GustavoAprigio">)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/gustavinho12bass/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](<maito:gustavo.aprigio@gmail.com">)
+[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](<http://www.discord.com/1161493642498805810")[![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@GustavoAprigio">)
 
 ![Gustavo GitHub stats](https://github-readme-stats.vercel.app/api?username=devgustavoaprigio&show_icons=true&theme=dracula)
 
