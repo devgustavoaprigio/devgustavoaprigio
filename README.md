@@ -4,6 +4,14 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/gustavinho12bass/)
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](<http://www.discord.com/1161493642498805810")[![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@GustavoAprigio">)
 
+Desenvolvedor Backend com foco em soluções escaláveis para o ecossistema Magalu/Netshoes. Atualmente, atuo no time de atendimento, desenvolvendo e mantendo sistemas críticos para as áreas de logística, finanças e suporte ao cliente.
+
+Linguagens: Java e Python
+
+Banco de Dados: PostgreSQL
+
+Ferramentas: CI/CD, GitHub, Metodologias Ágeis
+
 ![Gustavo GitHub stats](https://github-readme-stats.vercel.app/api?username=devgustavoaprigio&show_icons=true&theme=dracula)
 
 ## Tecnologias
